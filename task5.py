@@ -1,6 +1,6 @@
 #!python3
 
-start = "here" 
+start = "here, " 
 repeats = 4
 word = "kitty "
 
